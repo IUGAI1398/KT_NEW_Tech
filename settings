@@ -1,0 +1,2 @@
+프로세스 종류 명령: taskkill /f /im cmd.exe /im wscript.exe
+설정 위치: WIN + R / shell:startup
